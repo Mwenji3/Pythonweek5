@@ -1,0 +1,6 @@
+This is the first line.
+Here is the second line with a number: 42
+And the third line, including another number: 3.14
+This is the fourth line, appended.
+Here's the fifth line, also appended.
+And the sixth line, continuing to append.
